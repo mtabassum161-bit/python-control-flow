@@ -19,6 +19,8 @@ if num > 0:
 else:
     print("Negative")
 
+#for vote 
+
 age = int(input("Enter your age: "))
 
 if age >= 18:
