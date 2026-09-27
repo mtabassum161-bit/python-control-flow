@@ -1,0 +1,14 @@
+
+
+#Create and print a list
+fruits = ["apple", "banana", "mango", "orange"]
+
+print(fruits)
+
+
+#Access items from a list
+fruits = ["apple", "banana", "mango", "orange"]
+
+print(fruits[0])
+print(fruits[2])
+
