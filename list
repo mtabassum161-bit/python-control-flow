@@ -12,3 +12,18 @@ fruits = ["apple", "banana", "mango", "orange"]
 print(fruits[0])
 print(fruits[2])
 
+#Add an item to a list
+
+fruits = ["apple", "banana", "mango"]
+
+fruits.append("orange")
+
+print(fruits)
+
+#Find the largest number
+numbers = [10, 25, 7, 42, 18]
+
+largest = max(numbers)
+
+print("Largest number is:", largest)
+
