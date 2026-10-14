@@ -9,3 +9,12 @@ print("After removing:", numbers)
 numbers.discard(100)
 print("After discard:", numbers)
 #Add and remove elements
+
+numbers = [10, 20, 10, 30, 20, 40, 30]
+
+unique_numbers = set(numbers)
+
+print("Original list:", numbers)
+print("Unique numbers:", unique_numbers)
+
+#duplicates from a list
